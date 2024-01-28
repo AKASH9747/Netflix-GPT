@@ -1,7 +1,7 @@
-import "./App.css";
+import Body from "./Components/Body";
 
 function App() {
-  return <div className="text-3xl font-bold underline text-green-600">Initial Start</div>;
+  return <Body />;
 }
 
 export default App;
